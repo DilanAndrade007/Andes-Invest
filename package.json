@@ -1,5 +1,5 @@
 {
-  "name": "mern-tasks",
+  "name": "andesinvest",
   "version": "1.0.0",
   "description": "A MERN CRUD with Authentication",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "start": "cross-env NODE_ENV=production node src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "andesinvest",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
